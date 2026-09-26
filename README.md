@@ -1,7 +1,7 @@
 # SMB-Remastered Webport
 A webport of the game [Super Mario Bros Remastered by JHDev2006](https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public)
 
-Port by me ofc
+Port by  T4ctica1YT
 
 # Changes compared to the [Other web port by bubbls](https://github.com/bubbls/ports/tree/main/smb-remastered)
 
